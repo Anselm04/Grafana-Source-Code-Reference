@@ -1,0 +1,3 @@
+Upstream: https://github.com/grafana/grafana
+Revision: 2a07a396c7508816f803cdf555e67a8c3c85e624
+Original tree: 38f887ec31846101907c0e0bb6f2286342b7c560
